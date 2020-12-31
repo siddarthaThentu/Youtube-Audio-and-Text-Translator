@@ -1,2 +1,2 @@
-# CS218-Project2
+# Youtube-Audio-and-Text-Translator
 Youtube video translation
